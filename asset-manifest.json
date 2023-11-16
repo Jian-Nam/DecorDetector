@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DecorDetector/static/css/main.7ca04aea.chunk.css",
-    "main.js": "/DecorDetector/static/js/main.4a7ddc79.chunk.js",
-    "main.js.map": "/DecorDetector/static/js/main.4a7ddc79.chunk.js.map",
-    "runtime~main.js": "/DecorDetector/static/js/runtime~main.20d80ccd.js",
-    "runtime~main.js.map": "/DecorDetector/static/js/runtime~main.20d80ccd.js.map",
-    "static/js/2.8528ad28.chunk.js": "/DecorDetector/static/js/2.8528ad28.chunk.js",
-    "static/js/2.8528ad28.chunk.js.map": "/DecorDetector/static/js/2.8528ad28.chunk.js.map",
-    "static/js/3.d433891d.chunk.js": "/DecorDetector/static/js/3.d433891d.chunk.js",
-    "static/js/3.d433891d.chunk.js.map": "/DecorDetector/static/js/3.d433891d.chunk.js.map",
-    "index.html": "/DecorDetector/index.html",
-    "precache-manifest.f2398a0ec8100603def13b1f1c45473f.js": "/DecorDetector/precache-manifest.f2398a0ec8100603def13b1f1c45473f.js",
-    "service-worker.js": "/DecorDetector/service-worker.js",
-    "static/css/main.7ca04aea.chunk.css.map": "/DecorDetector/static/css/main.7ca04aea.chunk.css.map"
+    "main.css": "/static/css/main.7ca04aea.chunk.css",
+    "main.js": "/static/js/main.4a7ddc79.chunk.js",
+    "main.js.map": "/static/js/main.4a7ddc79.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.8ddf9e39.js",
+    "runtime~main.js.map": "/static/js/runtime~main.8ddf9e39.js.map",
+    "static/js/2.8528ad28.chunk.js": "/static/js/2.8528ad28.chunk.js",
+    "static/js/2.8528ad28.chunk.js.map": "/static/js/2.8528ad28.chunk.js.map",
+    "static/js/3.d433891d.chunk.js": "/static/js/3.d433891d.chunk.js",
+    "static/js/3.d433891d.chunk.js.map": "/static/js/3.d433891d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.727935b794d96da5f01acb6972015984.js": "/precache-manifest.727935b794d96da5f01acb6972015984.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7ca04aea.chunk.css.map": "/static/css/main.7ca04aea.chunk.css.map"
   }
 }
